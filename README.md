@@ -5,11 +5,15 @@
 
 # 体验优化版和模仿版反诈中心提醒
 
-中国电信 https://96110.pages.dev/ChinaTelecom/CT
+中国电信CT https://96110.pages.dev/ChinaTelecom/CT
 
-中国联通 https://96110.pages.dev/ChinaUnicom/CU
+中国联通CU https://96110.pages.dev/ChinaUnicom/CU
 
-中国移动 https://96110.pages.dev/ChinaMobile/CM
+中国移动CM https://96110.pages.dev/ChinaMobile/CM
+
+美国联邦调查局FBI https://96110.pages.dev/FBI/FBI
+
+美国CloudFlare公司 https://96110.pages.dev/CloudFlare/CF
 
 
 # 体验原版反诈中心提醒请点击
