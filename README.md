@@ -1,6 +1,10 @@
 # 96110
 反诈中心想你了，喜欢我反诈中心吗，请您立即下载《国家反诈中心》App
 
+IOS用户可使用AppStore快速下载 https://apps.apple.com/cn/app/id1552823102
+
+安卓用户可使用 腾讯应用宝快速下载 https://sj.qq.com/appdetail/com.hicorenational.antifraud 或者 [https://www.pc6.com/az/994043.html](https://516dcdown.0098118.com/apk/cc298a81436c19c203471ab3f10de005/2308/25/3468137.apk)
+
 # 体验优化版和模仿版反诈中心提醒
 
 中国电信CT https://96110.pages.dev/ChinaTelecom/CT
